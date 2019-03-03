@@ -1,0 +1,95 @@
+*{
+margin: 0;
+padding: 0;
+}
+#bagian1,#bagian3{
+background : linear-gradient(to bottom,rgba(65,131,215,0.90),
+rgba(133,216,206,0.80)), url(../img/Bag1.jpg);
+background-size: cover;
+color: white;
+height : 100vh;
+width: auto;
+padding-right: 200px;
+padding-left: 200px;
+background-attachment: fixed;
+}
+#bagian1 h1{
+font-size: 200px;
+font-family: cursive;
+padding-top: 50px;
+}
+#bagian1 h3{
+font-size: 50px;
+font-family: cursive;
+}
+#bagian1 ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+#bagian1 li{
+float: right;
+font-color:white;
+}
+#bagian1 li a{
+display: block;
+padding: 50px;
+text-decoration: none;
+text-decoration-color: white;
+font-family: cursive;
+font-size: 20px;
+}
+#bagian2 {
+	font-family: cursive;
+	height: 500px;
+}
+#bagian2 h2{
+	font-size: 100px;
+}
+
+#bagian2 p{
+	font-size: 30px;
+}
+
+.box {
+	width: 800px;
+	border-style: outset;
+}
+
+#bagian3 h1{
+font-size: 100px;
+font-family: cursive;
+padding-top: 50px;
+}
+
+#bagian3 li {
+padding: 50px;
+text-decoration: none;
+text-decoration-color: white;
+font-family: cursive;
+font-size: 50px;
+}
+
+#bagian4 {
+	height: 300px;
+}
+
+#bagian4 ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+}
+#bagian4 li{
+
+font-color:white;
+}
+#bagian4 li a{
+display: inline;
+padding: 50px;
+text-decoration: none;
+text-decoration-color: white;
+font-family: cursive;
+font-size: 50px;
+}
